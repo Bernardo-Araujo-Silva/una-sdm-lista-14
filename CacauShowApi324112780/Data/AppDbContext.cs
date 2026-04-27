@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using CacauShowApiSeuRa.Models;
+using CacauShowApi324112780.Models;
 
-namespace CacauShowApiSeuRa.Data
+namespace CacauShowApi324112780.Data
 {
     public class AppDbContext : DbContext
     {

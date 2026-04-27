@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using CacauShowApiSeuRa.Data;
-using CacauShowApiSeuRa.Models;
+using CacauShowApi324112780.Data;
+using CacauShowApi324112780.Models;
 
-namespace CacauShowApiSeuRa.Controllers
+namespace CacauShowApi324112780.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

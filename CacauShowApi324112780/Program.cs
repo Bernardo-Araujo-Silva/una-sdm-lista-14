@@ -1,4 +1,4 @@
-using CacauShowApiSeuRa.Data;
+using CacauShowApi324112780.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
-using CacauShowApiSeuRa.Data;
+using CacauShowApi324112780.Data;
 
-namespace CacauShowApiSeuRa.Controllers
+namespace CacauShowApi324112780.Controllers
 {
     [ApiController]
     [Route("api/intelligence")]
